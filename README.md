@@ -71,3 +71,5 @@ Copyright © 2025 xpander.ai. All rights reserved.
 - **Website**: [xpander.ai](https://xpander.ai)
 - **Documentation**: [docs.xpander.ai](https://docs.xpander.ai)
 - **Support**: support@xpander.ai
+
+<!-- This was done with custom branch -->
